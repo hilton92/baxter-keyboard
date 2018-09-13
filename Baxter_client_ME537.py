@@ -207,3 +207,8 @@ if __name__ == '__main__':
 
 	  #Set joint speed to slow again
         limb.set_joint_position_speed(0.01)
+
+
+
+
+
